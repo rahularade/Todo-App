@@ -3,13 +3,9 @@
 A modern and minimal **Todo App** built with **React**, **TypeScript**, and **TailwindCSS**.  
 This project demonstrates clean component design, type safety, and scalable folder structure — perfect for learning or extending into a full productivity app.
 
----
-
 ## 🚀 Live Demo
 
 🔗 **[View Live Demo](https://your-live-demo-url.vercel.app/)**
-
----
 
 ## 🧰 Tech Stack
 
@@ -18,8 +14,6 @@ This project demonstrates clean component design, type safety, and scalable fold
 - **Tailwind CSS**
 - **LocalStorage** for persistence
 
----
-
 ## 📦 Features
 
 - Add, edit, and delete todos  
@@ -27,8 +21,6 @@ This project demonstrates clean component design, type safety, and scalable fold
 - Clean and responsive UI  
 - Modular & reusable components  
 - Type-safe code with TypeScript  
-
----
 
 ## 🛠️ Getting Started
 
