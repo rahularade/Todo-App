@@ -1,7 +1,7 @@
 import InputBox from "./ui/InputBox";
 import Button from "./ui/Button";
 import { useContext, useRef, type KeyboardEventHandler } from "react";
-import { TodoContext, type TodoType } from "../context/TodoContex";
+import { TodoContext } from "../context/TodoContex";
 
 interface EditTodoProps {
     id: number;

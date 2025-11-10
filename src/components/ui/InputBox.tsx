@@ -1,4 +1,4 @@
-import type { ChangeEventHandler, InputHTMLAttributes, KeyboardEventHandler } from "react"
+import type { KeyboardEventHandler } from "react"
 
 
 interface InputBoxProps{
