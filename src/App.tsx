@@ -4,7 +4,7 @@ import { TodoContextProvider } from "./context/TodoContex";
 
 function App() {
     return (
-        <div className="w-full min-h-dvh p-5 flex flex-col items-center bg-background font-poppins">
+        <div className="w-full min-h-dvh p-5 relative flex flex-col items-center bg-background font-poppins">
             <h1 className="text-4xl font-medium text-heading my-5">
                 Just Do It!
             </h1>
@@ -16,6 +16,7 @@ function App() {
                     </div>
                 </div>
             </TodoContextProvider>
+            <p className="text-heading text-sm p-2 absolute bottom-0">Built with ❤️ by Rahul Arade</p>
         </div>
     );
 }
