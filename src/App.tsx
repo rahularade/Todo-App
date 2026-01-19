@@ -19,14 +19,7 @@ function App() {
                 </div>
             </TodoContextProvider>
             <div className="text-heading text-sm p-2 absolute bottom-0">
-                Built with ❤️ by{" "}
-                <a
-                    href="https://rahularade.site"
-                    target="_blank"
-                    className="hover:underline"
-                >
-                    Rahul Arade
-                </a>
+                Built with ❤️ by Rahul Arade
                 <div className="flex justify-center gap-4">
                     <a
                         href="https://github.com/rahularade/Todo-App"
@@ -72,7 +65,7 @@ function App() {
                         </svg>
                     </a>
                     <a
-                        href="mailto:araderahul9196@gmail.com"
+                        href="https://rahularade.site"
                         className="p-2 text-heading/70 hover:text-white hover:bg-input-background rounded"
                         target="_blank"
                     >
@@ -83,13 +76,13 @@ function App() {
                             viewBox="0 0 24 24"
                             fill="none"
                             stroke="currentColor"
-                            strokeWidth="2"
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
+                            stroke-width="2"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
                             className="size-4"
                         >
-                            <path d="m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7" />
-                            <rect x="2" y="4" width="20" height="16" rx="2" />
+                            <path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2" />
+                            <circle cx="12" cy="7" r="4" />
                         </svg>
                     </a>
                 </div>
